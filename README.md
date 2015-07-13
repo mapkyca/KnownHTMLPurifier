@@ -9,7 +9,7 @@ the output of XSS and other vulnerabilities.
 Installation
 ------------
 
-* Drop the Buffer folder into the IndoPlugins folder of your idno installation.
+* Drop the HTMLPurifier folder into the IndoPlugins folder of your idno installation.
 * Log into known and click on Administration.
 * Click "install" on the plugins page
 
